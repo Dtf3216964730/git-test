@@ -1,0 +1,12 @@
+0:0:0:0:0:0:0:1 - - [06/Jun/2020:23:56:22 +0800] "GET /maven_day02_1 HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [06/Jun/2020:23:56:22 +0800] "GET /maven_day02_1 HTTP/1.1" 302 - http-bio-8080-exec-4 0
+0:0:0:0:0:0:0:1 - - [06/Jun/2020:23:56:25 +0800] "GET /maven_day02_1/ HTTP/1.1" 200 52 http-bio-8080-exec-6 3051
+0:0:0:0:0:0:0:1 - - [06/Jun/2020:23:56:25 +0800] "GET /maven_day02_1/ HTTP/1.1" 200 52 http-bio-8080-exec-5 3038
+0:0:0:0:0:0:0:1 - - [06/Jun/2020:23:56:26 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-7 0
+0:0:0:0:0:0:0:1 - - [06/Jun/2020:23:56:26 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-8 0
+0:0:0:0:0:0:0:1 - - [06/Jun/2020:23:57:17 +0800] "GET /maven_day02_1 HTTP/1.1" 302 - http-bio-8080-exec-4 0
+0:0:0:0:0:0:0:1 - - [06/Jun/2020:23:57:18 +0800] "GET /maven_day02_1/ HTTP/1.1" 200 52 http-bio-8080-exec-4 293
+0:0:0:0:0:0:0:1 - - [06/Jun/2020:23:57:20 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-4 0
+0:0:0:0:0:0:0:1 - - [06/Jun/2020:23:58:20 +0800] "GET /maven_day02_1/items/findDetail HTTP/1.1" 500 9818 http-bio-8080-exec-7 1297
+0:0:0:0:0:0:0:1 - - [06/Jun/2020:23:58:22 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-2 0
+0:0:0:0:0:0:0:1 - - [06/Jun/2020:23:58:59 +0800] "GET /maven_day02_1/items/findDetail HTTP/1.1" 500 9818 http-bio-8080-exec-1 393

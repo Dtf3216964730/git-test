@@ -1,0 +1,5 @@
+cn\itcast\travel\dao\UserDao.class
+cn\itcast\travel\service\UserService.class
+cn\itcast\travel\dao\impl\UserDaoImpl.class
+cn\itcast\travel\web\servlet\RegistUserServlet.class
+cn\itcast\travel\service\impl\UserServiceImpl.class

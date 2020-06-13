@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+ <mapper namespace="com.dtf.dao.IUserDao">
+<!--    查询所有操作-->
+    <select id="findAll" resultType="com.dtf.domain.User">
+        select * from user ;
+    </select>
+<!--    保存用户操作-->
+    <insert id="saveUser" parameterType="com.dtf.domain.User">
+        insert into user(username,address,sex,birthday)values(#{username},#{address},#{sex},#{birthday});
+    </insert>
+<!--    更新用户操作-->
+    <update id="updateUser" parameterType="com.dtf.domain.User">
+        update user set username = #{username},address = #{address},sex = #{sex},birthday = #{birthday} where id=#{id};
+    </update>
+<!--    删除用户-->
+    <delete id="delectUser" parameterType="Integer">
+        delete from user where id=#{uid};
+    </delete>
+<!--    根据id查询用户-->
+    <select id="findById" parameterType="INT" resultType="com.dtf.domain.User">
+        select * from user where id =#{uid};
+    </select>
+<!--    根据username进行模糊查询-->
+    <select id="findByName" parameterType="String" resultType="com.dtf.domain.User">
+        select * from user where username like #{name};
+    </select>
+<!--    获取用户的总记录数-->
+    <select id="findTotal" resultType="int">
+        select count(id) from user ;
+    </select>
+<!--    根据QueryVo里的条件查询用户-->
+    <select id="findUserByVo" parameterType="com.dtf.domain.QueryVo" resultType="com.dtf.domain.User">
+        select * from user where username like #{user.username};
+    </select>
+</mapper>

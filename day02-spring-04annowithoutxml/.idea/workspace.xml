@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0b457eaf-b457-4246-b14e-c4c87c7b1a01" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\software\maven_repository" />
+        <option name="mavenHome" value="D:/software/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="D:\software\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1chEF99z9wMnhCKDlFeGAkZodtR" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/java/57.spring/spring/spring_day02/代码/spring_day02/day02_eesy_04account_annoioc_withoutxml" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ideaworkplace\day02-spring-04annowithoutxml\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.AccountServiceTest.testFindAll">
+    <configuration name="AccountServiceTest.testFindAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day02-spring-04annowithoutxml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dtf.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dtf.test" />
+      <option name="MAIN_CLASS_NAME" value="com.dtf.test.AccountServiceTest" />
+      <option name="METHOD_NAME" value="testFindAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountServiceTest.testSave" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day02-spring-04annowithoutxml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dtf.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dtf.test" />
+      <option name="MAIN_CLASS_NAME" value="com.dtf.test.AccountServiceTest" />
+      <option name="METHOD_NAME" value="testSave" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AccountServiceTest.testFindAll" />
+        <item itemvalue="JUnit.AccountServiceTest.testSave" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b457eaf-b457-4246-b14e-c4c87c7b1a01" name="Default Changelist" comment="" />
+      <created>1590972318597</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590972318597</updated>
+      <workItem from="1590972323800" duration="13949000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="74" key="#Project_Structure" timestamp="1590972857970">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="74" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1590972857970" />
+    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1590997212830">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1590997212830" />
+    <state width="1537" height="629" key="GridCell.Tab.0.bottom" timestamp="1590997214344">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="629" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590997214344" />
+    <state width="1537" height="629" key="GridCell.Tab.0.center" timestamp="1590997214342">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="629" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1590997214342" />
+    <state width="1537" height="629" key="GridCell.Tab.0.left" timestamp="1590997214340">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="629" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1590997214340" />
+    <state width="1537" height="629" key="GridCell.Tab.0.right" timestamp="1590997214342">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="629" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1590997214342" />
+    <state x="272" y="0" key="SettingsEditor" timestamp="1590994906442">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="272" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1590994906442" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1590993927818">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1590993927818" />
+  </component>
+</project>
